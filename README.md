@@ -4,7 +4,7 @@ Waterquality Project
 
 Directory structure
 
-- node (Node related data)
+- node (Node related data)(My Works)
    - arduino (Arduino code)
    - decoder (TTN decoder function in decoder.txt)
 
